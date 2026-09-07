@@ -15,7 +15,6 @@ enum class BehandlingsflytFeature : FeatureToggle {
     SamordningFaktagrunnlagBrev,
     GReguleringUtplukkJobb,
     BackfillStansOpphor,
-    BackfillSakstatusDatadeling,
     VentStatusForTilbakekrevingIBehandlingsflyt,
     IkkeSjekkInformasjonskravLovvalgMedlemsskapGrunnlag,
     GenererVilkarsvurderingOppsummeringPDF,
